@@ -29,4 +29,4 @@ MovieApp is a simple iOS application for exploring movies, fetching movie data f
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MovieApp.git
+   git clone https://github.com/shivendra885/MovieAppIOS.git
